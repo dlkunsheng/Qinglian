@@ -1,0 +1,68 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+# User-specific files for Visual Studio for Mac
+.idea/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer file
+*.cab
+
+# Windows Installer files
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.appx
+*.appxbundle
+
+# Windows Store app files
+*.appxupload
+
+# Windows debug and release directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+x64/
+x86/
+
+# Windows Installer files
+*.cab
+
+# .NET Core & .NET 5/6 SDK
+bin/
+obj/
+artifacts/
+
+# Windows image files
+*.bak
+*.log
+
+# User-specific files for Visual Studio for Mac
+.idea/
+
+# .NET tooling
+.vs2019/
+.vs2022/
+.vs/
+.idea/
+
+# User-specific files
+.vs2019/
+.vs2022/
+.vscode/
+
+# User-specific JetBrains Rider files
+.idea/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
